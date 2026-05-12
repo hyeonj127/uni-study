@@ -22,6 +22,6 @@
 
 ### ◇ 시각데이터처리
 - 영상처리 기초 및 이미지 처리 알고리즘 학습
-- 픽셀 변환, 히스토그램 처리, 마스킹 및 필터링(Gaussian Blur, Laplacian 등) rngus
+- 픽셀 변환, 히스토그램 처리, 마스킹 및 필터링(Gaussian Blur, Laplacian 등) 구현
 - 주요 프로젝트: 다양한 영상처리 기능을 포함한 PIL 기반의 MDI 포토샵 프로그램
 - 기술: Python, PIL, PyQt5, NumPy
